@@ -2,4 +2,4 @@
 
 SELECT emp_name,Salary
 FROM employees
-WHERE department = 'IT';
+WHERE department = 'IT'; 
