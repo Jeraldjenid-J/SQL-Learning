@@ -1,10 +1,10 @@
-# 🚀 LeetCode SQL Solutions
+#  LeetCode SQL Solutions
 
 A collection of optimized solutions for LeetCode SQL problems, organized by difficulty.
 
 ---
 
-### 📊 Progress
+###  Progress
 | Difficulty | Solved | Target |
 | :--- | :---: | :---: |
 | 🟢 Easy | 0 | 50 |
@@ -13,7 +13,7 @@ A collection of optimized solutions for LeetCode SQL problems, organized by diff
 
 ---
 
-### 📂 Structure
+###  Structure
 ```text
 ├── 📂 Easy
 ├── 📂 Medium
