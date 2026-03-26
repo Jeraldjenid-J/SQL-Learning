@@ -8,7 +8,7 @@ A collection of optimized solutions for LeetCode SQL problems, organized by diff
 | Difficulty | Solved | Target |
 | :--- | :---: | :---: |
 | 🟢 Easy | 24 | 50 |
-| 🟡 Medium | 2 | 30 |
+| 🟡 Medium | 3 | 30 |
 | 🔴 Hard | 0 | 10 |
 
 ---
